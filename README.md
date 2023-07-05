@@ -1,1 +1,1 @@
-# basics-of-classification
+# basics_of_classification
